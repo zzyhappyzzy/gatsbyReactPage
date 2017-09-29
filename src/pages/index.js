@@ -6,7 +6,7 @@ const IndexPage = () => (
     <h1>Hello everybody</h1>
     <p>Welcome to my site.</p>
     <p>My name is momoer.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <audio src="http://ovybms07k.bkt.clouddn.com/jiumei.mp3" autoPlay loop></audio>
   </div>
 )
 
